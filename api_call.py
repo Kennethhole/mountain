@@ -87,7 +87,7 @@ def run_export_api():
                                 print(i, subfield.text)
 
 
-# Just a change to create a new release. V3
+# Just a change to create a new release. V1.4
 
 
 # Start script
